@@ -1,0 +1,30 @@
+#main aside{
+    background-color: azure;
+    border: 2px solid blue;
+    height: 600px;
+    width: 25%;
+    margin-left:75px;
+    float : left;
+    text-align: center;
+    background: url(../images/download.jpg) center no-repeat,linear-gradient(to bottom right,rgb(185, 31, 31),rgba(245, 222, 179, 0.425)); 
+    font-family: cursive;
+    background-color: pink;
+    
+    /*background: linear-gradient(left bottom,left top,color-stop(0.70 , blue) , color-stop(0.30,brown));*/
+}
+#main article{
+    background-color: azure;
+    border: 2px solid red;
+    height: 600px;
+    float : left;
+    width: 65%;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+    font-family: cursive;
+
+}
+    #main article{
+        
+        background:url(../images/image.jpg) bottom no-repeat;
+    }

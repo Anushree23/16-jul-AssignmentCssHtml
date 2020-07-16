@@ -1,0 +1,23 @@
+footer{
+    background-color: azure;
+}
+*{
+    background-color:gray;
+}
+footer{
+    background-color: blueviolet ;
+}
+.test{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#test{
+    font-family: cursive;
+}
+body{
+    font-family: monospace;
+    font-size: xx-large;
+}
+span{
+    background-color: coral;
+}
+
